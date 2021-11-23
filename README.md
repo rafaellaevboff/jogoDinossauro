@@ -1,5 +1,5 @@
-## Recriação do jogo do Dinossauro que aparece quando não há internet para acessar o Chrome
+## Recriação do jogo do Dinossauro que aparece quando não há internet para acessar o Chrome :t-rex:
 
-### atividade proposta pela Digital Innovation One com o desenvolvedor Celso Henrique (https://github.com/celso-henrique)
+#### atividade proposta pela Digital Innovation One com o desenvolvedor Celso Henrique (https://github.com/celso-henrique)
 
-### Descobrir Keycode(num tecla do teclado): https://keycode.info/
+ - Descobrir Keycode(num tecla do teclado): https://keycode.info/
